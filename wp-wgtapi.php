@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://www.hokx.com
+ * @link              https://github.com/eddinn/wp-wgtapi
  * @since             1.0.0
  * @package           wp-wgtapi
  *
@@ -17,8 +17,8 @@
  * Plugin URI:        https://github.com/eddinn/wp-wgtapi
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
- * Author:            HOKX
- * Author URI:        https://hokx.com/
+ * Author:            Edvin Dunaway
+ * Author URI:        https://github.com/eddinn/wp-wgtapi
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-wgtapi
